@@ -1,0 +1,7 @@
+CINEMA_ID = "37534"
+MOVIE_ID = "1545360"
+
+ONLY_WEEKEND = False
+ONLY_IMAX = True
+
+SEEN_FILE = "seen.json"
